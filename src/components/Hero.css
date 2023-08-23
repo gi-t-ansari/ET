@@ -1,0 +1,20 @@
+.heroContainer {
+  text-align: center;
+  margin-top: 30vh;
+}
+
+.logo1 {
+  max-width: 80%;
+}
+
+.heroSubtext {
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: #ffffff;
+  background: linear-gradient(
+    45deg,
+    rgb(85, 187, 83) 0%,
+    rgb(13, 113, 186) 80.42%,
+    rgb(13, 113, 186) 100%
+  );
+}

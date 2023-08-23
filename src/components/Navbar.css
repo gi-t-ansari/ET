@@ -1,0 +1,42 @@
+.navbarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  border-bottom: 1px solid #27272a;
+}
+
+.logoContainer {
+  max-width: 80px;
+  max-height: 80px;
+}
+
+.logo {
+  width: 100%;
+}
+
+.createFormButton {
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.navBarLogo1 {
+  max-height: 80px;
+  cursor: pointer;
+}
+
+.navBarLogo1Img {
+  max-height: 80px;
+  width: 100%;
+}
+
+.redText {
+  color: #dc2626;
+}
+
+@media (max-width: 767px) {
+  .navBarLogo1 {
+    display: none;
+  }
+}

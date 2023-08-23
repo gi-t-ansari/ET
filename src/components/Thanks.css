@@ -1,0 +1,12 @@
+.thanksBodyContainer {
+  max-width: 600px;
+  margin: 10px auto;
+  padding: 10px 20px;
+}
+
+.tanksFooter {
+  margin: 20px 0px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}

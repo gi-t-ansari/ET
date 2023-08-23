@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  margin: 0px;
+  background: linear-gradient(96.34deg, #f1f5f9 0%, #cbd5e1 100%);
+}
+
+.button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #16a34a;
+  color: #ffffff;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: #15803d;
+}
